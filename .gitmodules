@@ -4,3 +4,6 @@
 [submodule "libraries/NTPClient"]
 	path = libraries/NTPClient
 	url = https://github.com/taranais/NTPClient.git
+[submodule "libraries/pubsubclient"]
+	path = libraries/pubsubclient
+	url = https://github.com/Isekai-Seikatsu/pubsubclient.git
