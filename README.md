@@ -9,6 +9,8 @@ Use Linkit7697 to automatically control IR-based air conditioner and use air qua
 
 ## Develop With Arduino IDE
 ### Git Clone
+`git clone --recursive https://github.com/Isekai-Seikatsu/AirCondAuto.git`
+
 ### Setting Arduino IDE
 1. Go to Preferences
   > ![](https://i.imgur.com/54Galqz.png)
